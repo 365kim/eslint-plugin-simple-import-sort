@@ -1,5 +1,7 @@
 # eslint-plugin-simple-import-sort
 
+<br/>
+
 Easy autofixable import sorting.
 
 - ✅️ Runs via `eslint --fix` – no new tooling
